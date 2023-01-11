@@ -1,8 +1,4 @@
     <a name="readme-top"></a>
-    
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello World Excercise</b></h3>
 
@@ -48,8 +44,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Saying hello to the world.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,9 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> www.helloworld.com
-
-- [Live Demo Link](https://www.helloworld.com)
+>The live link will be updated soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,23 +66,14 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> Oluwatosin Festus Ajibola
 > Martin Ossa
-> Tshepo Makama
 
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/festy1)
-
-
-👤 **Author2**
-
 - GitHub: [@githubhandle](https://github.com/maov19)
+- E-mail: martin.ossa.8@gmail.com
 
-👤 **Author3**
-
-- GitHub: [@githubhandle](https://github.com/tshepo1)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,9 +84,8 @@
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Goodbye World]**
-- [ ] **[Good Morning World]**
-- [ ] **[Good Night World]**
+- [ ] **[Implement mobile version]**
+- [ ] **[Implement desktop version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
