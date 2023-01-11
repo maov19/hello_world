@@ -1,7 +1,6 @@
     <a name="readme-top"></a>
     
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -51,7 +50,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[Feature 1]**
+- **[Saying hello to the world.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +113,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page].
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +121,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> Support our project by creating a Hello World project yourself.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,9 +130,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank all the world.
+We would like to thank all the world.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +139,5 @@ I would like to thank all the world.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
