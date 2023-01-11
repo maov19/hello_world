@@ -1,8 +1,6 @@
-    <a name="readme-top"></a>
+ <a name="readme-top"></a>
 
   <h3><b>Hello World Excercise</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
